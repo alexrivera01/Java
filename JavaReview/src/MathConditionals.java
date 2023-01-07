@@ -2,7 +2,7 @@
 public class MathConditionals {
 	
 	public static void main(String arg[]){
-		functionsMath();
+		typeConversion();
 	}
 	
 	/**
@@ -65,8 +65,16 @@ public class MathConditionals {
 		double atan = Math.atan(round);
 		
 		utils.imp("The arctangent of variable round is: "+ atan);
-		
-		
 	}
+	
+	
+	private static void typeConversion() {
+		//the funcition Math.round return long type
+		//can make a conversion whit el type of data inside parenthesis
+		int round = (int)Math.round(4.48);
+		utils.imp(round);
+	}
+	
+	
 	
 }

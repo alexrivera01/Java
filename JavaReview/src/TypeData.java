@@ -3,13 +3,13 @@ import javax.swing.text.StyleConstants.CharacterConstants;
 public class TypeData{
 	
 	public static void main(String args[]) {
-		
+
 		constants();
 	}
 	
 	
 	/**
-	 * Method where the primitive date types are especified
+	 * Method where the primitive date types are specified
 	 */
 	public void primitiveDataTypes() {
 		//Integers
@@ -37,10 +37,7 @@ public class TypeData{
 	}
 	
 	
-	/**
-	 * Method to print data
-	 * @param pCadena parametro que recibe la cadena a imprimir
-	 */
+
 
 	
 }
