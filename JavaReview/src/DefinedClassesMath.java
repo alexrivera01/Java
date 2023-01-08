@@ -1,5 +1,5 @@
 
-public class MathConditionals {
+public class DefinedClassesMath {
 	
 	public static void main(String arg[]){
 		typeConversion();

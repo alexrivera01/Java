@@ -1,4 +1,7 @@
-/MathConditionals.class
-/TypeData.class
-/utils.class
-/DefinedClasses.class
+/PrimitiveTypeData.class
+/DefinedClassesString.class
+/DefinedClassesMath.class
+/DefinedClassesArrays.class
+/gui/
+/guis.class
+/Guis.class

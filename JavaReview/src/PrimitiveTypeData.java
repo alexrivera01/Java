@@ -1,6 +1,6 @@
 import javax.swing.text.StyleConstants.CharacterConstants;
 
-public class TypeData{
+public class PrimitiveTypeData{
 	
 	public static void main(String args[]) {
 

@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class DefinedClasses {
+public class DefinedClassesString {
 	
 	public static void main(String arg[]) {
 		returnAStringOfTheLine();
@@ -87,7 +87,7 @@ public class DefinedClasses {
 		}
 		
 		arrString = myString.split(" ");
-		
+				
 		/*
 		for (String string : arrString) {
 			utils.imp(string);
